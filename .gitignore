@@ -1,0 +1,12 @@
+config.inc.php
+config.performance.php
+log4php.properties
+htaccess.txt
+test/*
+user_privileges/*
+storage/*
+cache/*
+backup/*
+ayuda/*
+logs/*
+
